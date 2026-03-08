@@ -102,7 +102,8 @@ int main() {
 
 ## Output:
 
-![Uploading 11.png…]()
+<img width="1918" height="1090" alt="11" src="https://github.com/user-attachments/assets/3c1e2f75-ec3d-4e13-be2d-62f1b071aca1" />
+
 
 
 
